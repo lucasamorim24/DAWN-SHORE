@@ -36,9 +36,9 @@
   "name":"DAWN SHORE",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Free_ver","path":"sprites/Free_ver/Free_ver.yy",},},
+    {"id":{"name":"sprite_tile2","path":"sprites/sprite_tile2/sprite_tile2.yy",},},
     {"id":{"name":"House","path":"sprites/House/House.yy",},},
-    {"id":{"name":"Objects","path":"sprites/Objects/Objects.yy",},},
+    {"id":{"name":"sprite_tile1","path":"sprites/sprite_tile1/sprite_tile1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -19,6 +19,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"House","order":1,"path":"sprites/House/House.yy",},
-    {"name":"Objects","order":2,"path":"sprites/Objects/Objects.yy",},
+    {"name":"sprite_tile1","order":2,"path":"sprites/sprite_tile1/sprite_tile1.yy",},
   ],
 }
